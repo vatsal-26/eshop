@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/rahul-badgujar/EShopee-Flutter-eCommerce-App/blob/master/assets/images/launcher_icon_with_bg.png" alt="EShopee: Flutter eCommerce App" width="150" height="150"/>
+  
 
 &#xa0;
 
@@ -84,9 +84,9 @@ Here are some Illustration of App Screens
 | :----------------------------------: | :----------------------------: | :----------------------------: |
 |        Product Review Dialog         |         Sign In Screen         |         Sign Up Screen         |
 
-| ![](illustrations/forgot_password.png) | ![](illustrations/change_display_name.png) | ![](illustrations/change_display_picture.png) |
-| :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|         Forgot Password Screen         |         Change Display Name Screen         |         Change Display Picture Screen         |
+| ![](illustrations/forgot_password.png) | ![](illustrations/change_display_name.png) |
+| :------------------------------------: | :----------------------------------------: |
+|         Forgot Password Screen         |         Change Display Name Screen         |      
 
 | ![](illustrations/change_email.png) | ![](illustrations/change_password.png) | ![](illustrations/change_phone.png) |
 | :---------------------------------: | :------------------------------------: | :---------------------------------: |
